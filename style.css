@@ -34,6 +34,7 @@ nav ul li a {
 img {
   height: 708px;
   width: 525px;
+  justify-content: center;
 }
 
 img:hover {
